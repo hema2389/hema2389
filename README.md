@@ -24,9 +24,8 @@
  <br/>
 
 ---
-
 <br/>
-
+### STATS OF MY PROFILES
 <div align="center">
 
 ![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=hema2389&show_icons=true&theme=synthwave)
