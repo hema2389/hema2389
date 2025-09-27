@@ -10,14 +10,22 @@
 ### My Profiles 🌟
 [ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> ](www.linkedin.com/in/hema-varshni-manivannan) [<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/profile/hemavarshnimani1)
 
+<br/>
 
 ### I ❤ coding in
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="48" height="48" src="https://img.icons8.com/carbon-copy/100/postgreesql.png" alt="postgreesql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/> 
 
+<br/>
+
 ### Most Popular Repo:
  ![GitHub Repo stars](https://img.shields.io/github/stars/hema2389/VEHICLE-PARKING-APP-?color=hex&href="https://github.com/hema2389/VEHICLE-PARKING-APP-")
+ 
+ <br/>
+
 ---
+
 <br/>
+
 <div align="center">
 
 ![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=hema2389&show_icons=true&theme=synthwave)
@@ -36,6 +44,8 @@
 <br/>
 
 </div>
+
+<br/>
 
 <p align="center">
 🙏
