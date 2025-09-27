@@ -5,7 +5,7 @@
 - I love to collaborate on ML/AI 🙌
 - I'm looking for internships in FAANG
 
-<img width="220" height="220" align="right" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
+<img width="300" height="300" align="right" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
 
 ### My Profiles 🌟
 [ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> ](www.linkedin.com/in/hema-varshni-manivannan) [<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/profile/hemavarshnimani1)
@@ -18,7 +18,7 @@
 <br/>
 
 ### Most Popular Repo:
- ![GitHub Repo stars](https://img.shields.io/github/stars/hema2389/VEHICLE-PARKING-APP-?color=hex&href="https://github.com/hema2389/VEHICLE-PARKING-APP-")
+ [![GitHub Repo stars](https://img.shields.io/github/stars/hema2389/VEHICLE-PARKING-APP-?color=ff69b4&style=for-the-badge&label=Stars&logo=github)](https://github.com/hema2389/VEHICLE-PARKING-APP-")
  
  <br/>
 
